@@ -9,8 +9,8 @@
     </thead>
     <tbody>
         <tr>
-<td align="center"><a href="https://github.com/AGhaith/SICFinalProject/blob/main/README.md">        <img src="/logos/Samsung-Innovation-Campus-Project.png"          width="80%"></img></a></td>
-<td align="center"><a href="https://github.com/AGhaith/educational-projects/blob/master/README.md">             <img src="/logos/educational-projects.png"               width="80%"></img></a></td>
+<td align="center"><a href="https://github.com/AGhaith/SICFinalProject/blob/main/README.md">        <img src="/logos/Final.png"          width="80%"></img></a></td>
+<td align="center"><a href="https://github.com/AGhaith/educational-projects/blob/master/README.md">             <img src="/logos/Mini.png"               width="80%"></img></a></td>
         </tr>
     </tbody>
 </table>
