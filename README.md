@@ -5,7 +5,7 @@
         <tr>
 <td align="center" width="25%"><a href="https://github.com/AGhaith/SICFinalProject/blob/main/README.md">         Final Project    </a></td>
 <td align="center" width="25%"><a href="https://github.com/AGhaith/SiCminiproject/blob/master/README.md">              Mini Project         </a></td>
-<td align="center" width="25%"><a href="https://github.com/AGhaith/SICTasks/blob/master/README.md">              Mini Project         </a></td>
+<td align="center" width="25%"><a href="https://github.com/AGhaith/SICTasks/blob/master/README.md">              Tasks         </a></td>
         </tr>
     </thead>
     <tbody>
